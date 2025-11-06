@@ -1,0 +1,28 @@
+# Changelog
+
+## [1.0.0] - 2025-07-24
+
+### Added
+
+- Initial release of the Bharatavāṇi web app
+- Sloka display with meanings, translations, and summaries
+- Chapter 1 sloka data (in Telugu)
+- Streamlit-based interface
+- README and LICENSE files
+- Team member section and roles
+
+### Changed
+
+- Improved Adhyaya scroll bar functionality
+- Updated UI layout to fit dynamic text sizes
+
+### Fixed
+
+- Text overflow issues
+- Removed unnecessary numbering from translations and summaries
+
+### Future Plans
+
+- Add a comment box for user interaction
+- Include a like button to save favorite slokas
+- Add audio support for sloka translations and summaries
