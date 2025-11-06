@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Audio, video, and large data files (customize as needed)
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.sqlite
+*.db
+
+# Logs
+*.log
+
+# Ignore Git hooks backup
+.git/hooks/*
+!*.sample
